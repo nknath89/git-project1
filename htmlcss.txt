@@ -47,3 +47,7 @@ width: 57%;font-size: 15px;max-width: 290px;}
 .submitBtn{width: 100%;float: left;padding-left: 170px;}
 .submitBtn input{border: medium none;border-radius: 0;cursor: pointer;float: left;font-size: 16px;padding: 12px 35px 11px;background: #00356e;color: #fff;
 text-transform: uppercase;font-weight: 700;}
+
+.submitBtn{width: 100%;float: left;padding-left: 170px;}
+.submitBtn input{border: medium none;border-radius: 0;cursor: pointer;float: left;font-size: 16px;padding: 12px 35px 11px;background: #00356e;color: #fff;
+text-transform: uppercase;font-weight: 700;}
